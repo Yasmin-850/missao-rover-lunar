@@ -1,2 +1,3 @@
-# missao-rover-lunar
-Projeto de desenvolvimento do Rover Lunar
+## Desenvolvedores
+
+- Yasmin Aparecida Souza de Paula — RA: 32612974
